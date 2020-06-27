@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string.c>
+#include<string.h>
 void main()
 {
 	char hello[]="Hello world";
@@ -8,4 +8,4 @@ void main()
 	printf("value=%d",len*size);
 
 }
-//Error is detected
+
